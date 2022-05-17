@@ -1,0 +1,3 @@
+[submodule "subrepos/subrepo-a"]
+	path = subrepos/subrepo-a
+	url = https://github.com/kkarbowiak/submodules-subrepo-a
