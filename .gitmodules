@@ -4,3 +4,6 @@
 [submodule "subrepos/subrepo-b"]
 	path = subrepos/subrepo-b
 	url = https://github.com/kkarbowiak/submodules-subrepo-b
+[submodule "subrepos/subrepo-c"]
+	path = subrepos/subrepo-c
+	url = https://github.com/kkarbowiak/submodules-subrepo-c
